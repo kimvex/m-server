@@ -1,0 +1,21 @@
+{
+  "name": "e-mayra",
+  "version": "0.1.0",
+  "description": "Servidor con impresion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "moment": "^2.10.6",
+    "multer": "^1.1.0",
+    "mysql": "^2.10.0",
+    "swig": "^1.4.2"
+  }
+}
